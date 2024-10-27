@@ -15,7 +15,7 @@ retransmission of lost packets.
 overwhelming the network. It adjusts the flow of data based on the
 network's current capacity, ensuring smooth communication    
 - **Segmentation of Data**: TCP breaks down larger messages into smaller segments for transmission. Each segment is sent individually and reassembled at the destination,
-which helps in managing large data transfers efficiently. \br
+which helps in managing large data transfers efficiently. <br>
 In summary, TCP is essential for applications that require reliable 
 communication, such as web browsing, email, and file transfers, making 
 it a cornerstone of modern networking.
