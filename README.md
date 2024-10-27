@@ -1,5 +1,6 @@
 # NetPractice
 Introduction This project is a general practical exercise to let you discover networking.
+# Key Features of TCP
 
 # WHAT IS A TCP ?
 TCP : Transmission Control Protocol (TCP) is a fundamental communication standard used in networking that ensures reliable data transmission between devices. It is part of the Internet 
