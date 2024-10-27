@@ -29,6 +29,23 @@ Identification: It identifies a device on a network, allowing it to send and rec
 Location Addressing: It provides information about the device's location within the network.
 IP addresses come in two versions: IPv4 and IPv6. IPv4 addresses are written in a format called dotted-decimal notation, consisting of four octets (e.g., 192.168.1.1), while IPv6 addresses are longer and written in hexadecimal.
 
+**Key Components of IP**
+
+- **IP Address**: An IP address is a unique identifier assigned to each device connected
+to a network. It allows devices to locate and communicate with one
+another. IP addresses can be either IPv4 (32-bit) or IPv6 (128-bit)
+formats, with IPv6 designed to accommodate the growing number of devices on the internet
+- **Routing**: IP is responsible for routing data packets from the source device to
+the destination device. It determines the best path for data to travel
+across interconnected networks, ensuring that information reaches its
+intended recipient efficiently.
+- **Packet Structure**: Data transmitted over IP is broken down into smaller packets. Each
+packet contains both the data being sent and the necessary addressing
+information, allowing routers to direct the packets through the network.
+In summary, IP is essential for enabling communication between devices on 
+the internet, providing a structured way to address and route data 
+effectively.
+
 # What is a Subnet Mask?
 
 A subnet mask is a 32-bit number that divides an IP address into two parts: the network part and the host part. It helps determine which portion of the IP address refers to the network and which part refers to the specific device (host) within that network.
