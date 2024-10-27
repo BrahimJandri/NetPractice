@@ -41,7 +41,7 @@ across interconnected networks, ensuring that information reaches its
 intended recipient efficiently.
 - **Packet Structure**: Data transmitted over IP is broken down into smaller packets. Each
 packet contains both the data being sent and the necessary addressing
-information, allowing routers to direct the packets through the network.
+information, allowing routers to direct the packets through the network. <br>
 In summary, IP is essential for enabling communication between devices on 
 the internet, providing a structured way to address and route data 
 effectively.
