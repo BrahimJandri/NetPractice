@@ -37,3 +37,11 @@ A switch is a device that connects multiple devices in a single network. Unlike 
 # What is a Router?
 A router is a device that connects two or more IP Networks. Each network that a router connects to is linked through an interface, which can be a physical port or a wireless connection.
 
+# What is TCP/IP Model?
+This is the Model that all the devices uses today, it is a model that defines how data will be transferred from the sender to the receiver.
+
+This Model is similar to the OSI Model which uses all the 7 layers that we talk about, but this Model only uses 4 layers.
+
+![image](https://github.com/user-attachments/assets/fb76698e-5fa3-4ba5-a8d0-ec048e055392)
+
+
