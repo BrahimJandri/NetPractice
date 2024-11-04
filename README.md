@@ -11,3 +11,4 @@ There are two types of IP (Ipv4 & Ipv6), Ipv4 is a 32-bit number divided into 4 
 
 The IP address has two main parts: the Host ID, and the Network ID.
 
+![image](https://github.com/user-attachments/assets/1134d570-f2d9-46d7-8555-a09150ecd16e)
