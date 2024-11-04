@@ -115,6 +115,6 @@ Broadcast: communication method where data sent from one source to all nodes wit
 
 Type of Duplex:
 
-1 - Simplex: one-way communication (like Radio).
-2 - Half-Duplex: two-way communication but not simultaneously (like walkies-talkie).
+1 - Simplex: one-way communication (like Radio). <br>
+2 - Half-Duplex: two-way communication but not simultaneously (like walkies-talkie). <br>
 3 - Full-Duplex: two-way communication that occurs simultaneously (like Phone calls).
